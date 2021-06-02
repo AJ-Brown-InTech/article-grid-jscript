@@ -178,3 +178,8 @@ a {
   border: solid 2px lightgrey;
   padding:20px;
 }
+
+
+.nav-container a.active {
+  color: var(--primary-color);
+}
